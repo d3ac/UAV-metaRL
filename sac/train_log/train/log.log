@@ -1,0 +1,13 @@
+[33m[08-23 20:01:44 MainThread @tensorboard.py:32][0m [5m[33mWRN[0m [tensorboard] logdir is None, will save tensorboard files to train_log/train
+View the data using: tensorboard --logdir=train_log/train --host=192.168.1.102
+[32m[08-23 20:01:44 MainThread @train.py:114][0m Total Steps: 1000 Reward: -259.90337940935024
+[32m[08-23 20:01:45 MainThread @train.py:123][0m Evaluation over: 5 episodes, Reward: -2.116084536954576
+[32m[08-23 20:01:45 MainThread @train.py:114][0m Total Steps: 2000 Reward: -388.9821939249352
+[32m[08-23 20:01:45 MainThread @train.py:114][0m Total Steps: 3000 Reward: -217.0146701932914
+[32m[08-23 20:01:46 MainThread @train.py:114][0m Total Steps: 4000 Reward: -408.4586159550305
+[32m[08-23 20:01:46 MainThread @train.py:114][0m Total Steps: 5000 Reward: -340.51874991181825
+[32m[08-23 20:01:47 MainThread @train.py:123][0m Evaluation over: 5 episodes, Reward: -2.116084536954576
+[32m[08-23 20:01:47 MainThread @train.py:114][0m Total Steps: 6000 Reward: -379.0239622140173
+[32m[08-23 20:01:47 MainThread @train.py:114][0m Total Steps: 7000 Reward: -468.0739974869782
+[32m[08-23 20:01:47 MainThread @train.py:114][0m Total Steps: 8000 Reward: -404.4357973316602
+[32m[08-23 20:01:47 MainThread @train.py:114][0m Total Steps: 9000 Reward: -378.25712176121914
